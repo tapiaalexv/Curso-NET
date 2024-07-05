@@ -1,0 +1,7 @@
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Seccion2\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Seccion2\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Seccion2\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.AssemblyReference.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Seccion2\Seccion2\obj\Debug\Seccion2.csproj.CoreCompileInputs.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Seccion2\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Seccion2\Seccion2\obj\Debug\Seccion2.pdb

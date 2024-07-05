@@ -13,7 +13,6 @@ namespace HolaMundo
             Console.WriteLine("Hola Mundo");
 
             //TAREA #1
-
             Console.WriteLine("Alexis Dario");
             Console.WriteLine("Tapia Valladares");
         }

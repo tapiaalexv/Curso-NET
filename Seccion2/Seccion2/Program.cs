@@ -18,7 +18,7 @@ namespace Seccion2
             Console.WriteLine("6. Hornear durante 10 minutos");
 
             Console.Write("HOLA");
-            Console.Write(" soy Write, no hago salto de lineas\n"); 
+            Console.Write(" soy Write(), no hago salto de lineas\n"); 
         }
     }
 }

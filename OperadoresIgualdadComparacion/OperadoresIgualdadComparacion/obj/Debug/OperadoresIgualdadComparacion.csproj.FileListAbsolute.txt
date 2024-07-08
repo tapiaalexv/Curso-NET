@@ -1,0 +1,7 @@
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\OperadoresIgualdadComparacion\OperadoresIgualdadComparacion\bin\Debug\OperadoresIgualdadComparacion.exe.config
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\OperadoresIgualdadComparacion\OperadoresIgualdadComparacion\bin\Debug\OperadoresIgualdadComparacion.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\OperadoresIgualdadComparacion\OperadoresIgualdadComparacion\bin\Debug\OperadoresIgualdadComparacion.pdb
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\OperadoresIgualdadComparacion\OperadoresIgualdadComparacion\obj\Debug\OperadoresIgualdadComparacion.csproj.AssemblyReference.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\OperadoresIgualdadComparacion\OperadoresIgualdadComparacion\obj\Debug\OperadoresIgualdadComparacion.csproj.CoreCompileInputs.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\OperadoresIgualdadComparacion\OperadoresIgualdadComparacion\obj\Debug\OperadoresIgualdadComparacion.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\OperadoresIgualdadComparacion\OperadoresIgualdadComparacion\obj\Debug\OperadoresIgualdadComparacion.pdb

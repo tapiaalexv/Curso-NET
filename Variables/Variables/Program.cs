@@ -33,7 +33,10 @@ namespace Variables
             Console.WriteLine(numLibros);
             Console.WriteLine();
 
-            
+            //Cadena de formato
+            Console.WriteLine("Esto es una cadena de formato, la letra es {0}", letra);
+            Console.WriteLine("El promedio es {0} con un total de libros de {1}",promedioFinal, numLibros);
+                        
         }
     }
 }

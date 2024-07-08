@@ -1,0 +1,7 @@
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\Operadores\Operadores\obj\Debug\Operadores.pdb

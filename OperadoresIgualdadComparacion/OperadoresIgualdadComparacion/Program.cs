@@ -24,7 +24,11 @@ namespace OperadoresIgualdadComparacion
             Console.WriteLine(a <= b);
             Console.WriteLine(a >= b);
 
-
+            //PALABRAS CLAVES / KEYWORDS
+            /*
+             int @int; se usa @ para usar palabras claves como nombre de variable
+            NO SE RECOMIENDO NOMBRAR CON KEYWORDS A VARIABLES
+             */
         }
     }
 }

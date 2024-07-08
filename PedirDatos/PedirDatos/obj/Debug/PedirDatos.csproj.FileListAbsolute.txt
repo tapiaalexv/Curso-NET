@@ -1,0 +1,7 @@
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\PedirDatos\PedirDatos\bin\Debug\PedirDatos.exe.config
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\PedirDatos\PedirDatos\bin\Debug\PedirDatos.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\PedirDatos\PedirDatos\bin\Debug\PedirDatos.pdb
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\PedirDatos\PedirDatos\obj\Debug\PedirDatos.csproj.AssemblyReference.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\PedirDatos\PedirDatos\obj\Debug\PedirDatos.csproj.CoreCompileInputs.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\PedirDatos\PedirDatos\obj\Debug\PedirDatos.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\PedirDatos\PedirDatos\obj\Debug\PedirDatos.pdb

@@ -28,6 +28,12 @@ namespace PedirDatos
             resultado = num1 + num2;
 
             Console.WriteLine("El resultado es {0}",resultado);
+
+            //Ahorramos líneas de codigo
+            Console.Write("Dame otro numero para sumar a {0}:", num1);
+            num2 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("El resultado es {0}", num1+num2);
         }
     }
 }

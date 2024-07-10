@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tapia\\OneDrive\\Documentos\\Curso-NET\\BuclesAnidados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FB1EB7-5121-4FAB-8C29-B40FC3B102DB}|BuclesAnidados\\BuclesAnidados.csproj|c:\\users\\tapia\\onedrive\\documentos\\curso-net\\buclesanidados\\buclesanidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3FB1EB7-5121-4FAB-8C29-B40FC3B102DB}|BuclesAnidados\\BuclesAnidados.csproj|solutionrelative:buclesanidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tapia\\OneDrive\\Documentos\\Curso-NET\\BuclesAnidados\\BuclesAnidados\\Program.cs",
+              "RelativeDocumentMoniker": "BuclesAnidados\\Program.cs",
+              "ToolTip": "C:\\Users\\tapia\\OneDrive\\Documentos\\Curso-NET\\BuclesAnidados\\BuclesAnidados\\Program.cs*",
+              "RelativeToolTip": "BuclesAnidados\\Program.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:23:21.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

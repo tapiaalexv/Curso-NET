@@ -1,0 +1,7 @@
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\BuclesAnidados\BuclesAnidados\bin\Debug\BuclesAnidados.exe.config
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\BuclesAnidados\BuclesAnidados\bin\Debug\BuclesAnidados.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\BuclesAnidados\BuclesAnidados\bin\Debug\BuclesAnidados.pdb
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\BuclesAnidados\BuclesAnidados\obj\Debug\BuclesAnidados.csproj.AssemblyReference.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\BuclesAnidados\BuclesAnidados\obj\Debug\BuclesAnidados.csproj.CoreCompileInputs.cache
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\BuclesAnidados\BuclesAnidados\obj\Debug\BuclesAnidados.exe
+C:\Users\tapia\OneDrive\Documentos\Curso-NET\BuclesAnidados\BuclesAnidados\obj\Debug\BuclesAnidados.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tapia\\OneDrive\\Documentos\\Curso-NET\\Multiples Valores con Return\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA837863-0520-4B19-ADE5-0800215B5F94}|Multiples Valores con Return\\Multiples Valores con Return.csproj|c:\\users\\tapia\\onedrive\\documentos\\curso-net\\multiples valores con return\\multiples valores con return\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA837863-0520-4B19-ADE5-0800215B5F94}|Multiples Valores con Return\\Multiples Valores con Return.csproj|solutionrelative:multiples valores con return\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tapia\\OneDrive\\Documentos\\Curso-NET\\Multiples Valores con Return\\Multiples Valores con Return\\Program.cs",
+              "RelativeDocumentMoniker": "Multiples Valores con Return\\Program.cs",
+              "ToolTip": "C:\\Users\\tapia\\OneDrive\\Documentos\\Curso-NET\\Multiples Valores con Return\\Multiples Valores con Return\\Program.cs",
+              "RelativeToolTip": "Multiples Valores con Return\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:17:54.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

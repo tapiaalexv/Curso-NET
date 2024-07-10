@@ -10,51 +10,35 @@ namespace BuclesAnidados
     {
         static void Main(string[] args)
         {
-            /*Ejercicio #1*/
-            int numero, exponente;
-            int i; //Variable de control de bucle
+            /*Hacer un programa que calcule los números primos que existen entre el 1 y el 100*/
 
-            double resultado = 1;
-            double resultado_negativo;
+            //Variables
+            int numero, divisor, numDivisores = 0;
 
-            //Pedimos la base(número)
-            Console.Write("Ingresa la base: ");
-            numero = Convert.ToInt32(Console.ReadLine());
-
-            //Pedimos el exponente
-            Console.Write("Ingresa el exponente: ");
-            exponente = Convert.ToInt32(Console.ReadLine());
-
-            if (exponente < 0) //Si el exponente es negativo, entonces...
+            //Bucle exterior, se encarga de recorrer los números del 2 al 100
+            for (numero = 2; numero <= 100; numero++)
             {
-                exponente *= -1; // exponente = exponente * -1  ---> convierte el exponente a positivo
-
-                for (i = 1; i <= exponente; i++) // Iteración desde 1 hasta llegar al exponente
+                //Bucle anidado, se encarga de verificar el número de divisores
+                for (divisor = 1; divisor <= numero; divisor++)
                 {
-                    resultado *= numero;
+                    if (numero % divisor == 0)
+                    {
+                        numDivisores += 1; //numDivisores = numDivisores + 1;
+                    }
                 }
 
-                // Dividimos al 1 entre el resultado y se lo asignamos a una nueva variable
-                resultado_negativo = (1 / resultado);
-
-                //Mostramos el resultado
-                Console.WriteLine("{0}^{1} = {2}", numero, exponente, resultado_negativo);
-            }
-
-            else // Si el exponente no es menor que cero, por lo tanto es mayor o igual
-            {
-                for (i = 1; i <= exponente; i++)
+                //Verificamos que el número de divisiores sea igual a 2
+                if (numDivisores <= 2)
                 {
-                    resultado *= numero;
+                    Console.WriteLine(numero);
                 }
 
-                //Mostramos el resultado
-                Console.WriteLine("{0}^{1} = {2}", numero, exponente, resultado);
+                //Reiniciamos el conteo del número de divisores
+                numDivisores = 0;
             }
 
+            Console.ReadKey();
 
-
-            /*Ejercicio #2*/
         }
     }
 }
